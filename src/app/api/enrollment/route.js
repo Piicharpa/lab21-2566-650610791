@@ -191,3 +191,4 @@ export const DELETE = async (request) => {
     message: "You has dropped from this course. See you next semester.",
   });
 };
+//
